@@ -48,7 +48,7 @@
     "storage-versions": "dessant/storage-versions#^0.2.6",
     "typeface-roboto": "^0.0.75",
     "uuid": "^3.4.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "webextension-polyfill": "^0.6.0"
   },
   "devDependencies": {
@@ -83,7 +83,7 @@
     "standard-version": "^7.1.0",
     "svg2png": "^4.1.1",
     "vue-loader": "^15.8.3",
-    "vue-template-compiler": "^2.6.11",
+    "vue-template-compiler": "^2.7.16",
     "web-ext": "^4.0.0",
     "webpack": "^4.41.6",
     "webpack-bundle-analyzer": "^3.6.0",
